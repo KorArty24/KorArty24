@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @KorArty24
-- 👀 I’m interested in web programming (back end C#), programming for Tekla Structures in C#. 
-- 🌱 I’m currently learning algorithms in C++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
