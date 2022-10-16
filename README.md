@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KorArty24
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ As you can see my journey to software engineering started 3 years ago, but I’m still looking to fill in a position of jun+ dotnet developer.
+- 📫 You may reach me through linkedin.
 
 <!---
 KorArty24/KorArty24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
