@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KorArty24
-- 💞️ As you can see my journey to software engineering started 3 years ago, but I’m still looking to fill in a position of dotnet developer.
+- 💞️ Here you may find various projects, from small scale exercises to small-sized projects (200 hours and more) which help me to learn new things, sharpen skills, etc.
 - 📫 You may reach me through linkedin.
 - Some of the C++ tasks require stanford's libraries. Figure that out how to get em or get em through other projects in that repo. 
 
